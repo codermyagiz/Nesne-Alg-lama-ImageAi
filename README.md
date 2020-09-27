@@ -5,10 +5,10 @@ Python'da ImageAi ile resimdeki nesneleri algılama.
 ## Gerekli kütüphaneler
 [Pillow](https://pypi.org/project/Pillow/)
 
-    pip3 install tensorflow==1.13.1
+    pip3 install pillow
 [Tensorflow](https://pypi.org/project/tensorflow/)
 
-    pip3 install tensorflow
+    pip3 install tensorflow==1.13.1
 [OpenCv](https://pypi.org/project/opencv-python/)
 
     pip3 install opencv-python
